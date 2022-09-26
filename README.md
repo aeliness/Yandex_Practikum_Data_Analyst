@@ -5,7 +5,7 @@
 
 |№|Название проекта|Сфера|Описание|Стек|
 |:-----:|-----|:-----:|-----|:-----:|
-|1|[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/aeliness/Yandex_Practikum_Data_Analyst/tree/main/1_Yandex_music)|Интернет-сервисы|Стриминговый сервис|Предобработка и анализ данных; дубликаты и пропуски; логическая индексация; группировка; сортировка; исследовательский анализ данных| `Python` `Pandas`  |
+|1|[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/aeliness/Yandex_Practikum_Data_Analyst/tree/main/1_Yandex_music)|Интернет-сервисы; Стриминговый сервис|Предобработка и анализ данных; дубликаты и пропуски; логическая индексация; группировка; сортировка; исследовательский анализ данных| `Python` `Pandas`  |
 |2|[Исследование надёжности заёмщиков](https://github.com/dsibi/yandex_praktikum_da/tree/main/assess_reliability_of_bank_borrowers)|Финансы|Предобработка и анализ данных; лемматизация; исследовательский анализ данных| `Python` `pymystem3` `Pandas` `NumPy` |
 |3|[Исследование объявлений о продаже квартир](https://github.com/dsibi/yandex_praktikum_da/tree/main/ads_for_sale_of_apartments_research)|Недвижимость|Предобработка данных; поиск корреляций| `Pandas` `Matplotlib` `NumPy`|
 |4|[Определение перспективного тарифа для телеком компании](https://github.com/dsibi/yandex_praktikum_da/tree/main/determination_of_perspective_tariff)|Телеком|Объединение данных из пяти таблиц в одну; изучение аномалий в данных; исследовательский анализ данных; статистический анализ данных | `Pandas` `Matplotlib` `display` `math` `NumPy` `SciPy` `Statsmodels`|
