@@ -27,5 +27,6 @@
 [E-mail](mailto:akarlova90@mail.ru) 🔹 [Telegram](https://t.me/Aelines) 🔹 
 
 ![Diploma](https://github.com/aeliness/Yandex_Practikum_Data_Analyst/blob/main/diploma%201.JPG)
+![Diploma](https://github.com/aeliness/Yandex_Practikum_Data_Analyst/blob/main/diploma%202.JPG)
 
 </span>
