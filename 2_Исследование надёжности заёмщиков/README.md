@@ -11,7 +11,7 @@
 
 ## Библиотеки 🛠️
 
-`Python` `Pandas` 
+`Python` `pymystem3` `Pandas`
 
 <br>
 
