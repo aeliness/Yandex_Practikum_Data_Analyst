@@ -26,6 +26,6 @@
   
 [E-mail](mailto:akarlova90@mail.ru) 🔹 [Telegram](https://t.me/Aelines) 🔹 
 
-![Diploma](https://disk.yandex.ru/i/a57mtl2M4BgAqQ](https://drive.google.com/file/d/1hPte5nPZOYa6q-NDtqjXsQPFYDZrCO7G/view?usp=sharing)
+![](https://drive.google.com/file/d/1hPte5nPZOYa6q-NDtqjXsQPFYDZrCO7G/view?usp=sharing)
 
 </span>
