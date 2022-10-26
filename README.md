@@ -26,7 +26,6 @@
   
 [E-mail](mailto:akarlova90@mail.ru) 🔹 [Telegram](https://t.me/Aelines) 🔹 
 
-![Diploma](https://disk.yandex.ru/i/o9An-uNRStmDqw](https://disk.yandex.ru/client/disk?source=domik-main&idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%201%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.JPG)
-![Diploma](https://disk.yandex.ru/client/disk?source=domik-main&idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%202%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.JPG)  
+![Diploma](https://disk.yandex.ru/i/a57mtl2M4BgAqQ)
 
 </span>
