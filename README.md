@@ -21,4 +21,11 @@
 |12.3|[Выпускной проект, часть 3: SQL](https://github.com/aeliness/Yandex_Practikum_Data_Analyst/tree/main/12_3_SQL)|Мобильное приложение|SQL-запросы к базе данных |`Python` `SQLAlchemy` `PostgreSQL`|
 
 <br>
+
 <span align="center">
+  
+[E-mail](mailto:akarlova90@mail.ru) 🔹 [Telegram](https://t.me/Aelines) 🔹 
+
+![Diploma](https://disk.yandex.ru/i/o9An-uNRStmDqw)
+
+</span>
